@@ -22,7 +22,81 @@ The mark claimed herein is the personal name:
 
 rendered in full capitals, together with any stylization, seal, sigil, logo,
 monogram (**CDA™**), or presentation in which said name serves to identify the
-source of goods, services, works, and endeavors.
+source of goods, services, works, and endeavors. The mark embraces **every
+variation of the name** enumerated in Section 1A below — each variation is the
+same mark, and use of any variation is use of the mark.
+
+## 1A. THE NAME IN ALL ITS FORMS — VARIATIONS INCLUDED IN THE MARK
+
+The mark is ONE mark wearing many faces. Every form listed in this Section is
+the mark, in whole and in full force, identically to the full-capital canonical
+form **CHRISTOPHER DAVID AYOTTE™**. No form is weaker, secondary, or partial.
+
+**(a) Full name — every casing:**
+
+- CHRISTOPHER DAVID AYOTTE™ · Christopher David Ayotte™ · christopher david ayotte™
+- CHRISTOPHERDAVIDAYOTTE™ · ChristopherDavidAyotte™ · christopherdavidayotte™
+
+**(b) "Chris" for Christopher — every casing:**
+
+- CHRIS DAVID AYOTTE™ · Chris David Ayotte™ · chris david ayotte™
+
+**(c) Middle name dropped:**
+
+- CHRISTOPHER AYOTTE™ · Christopher Ayotte™ · christopher ayotte™
+- CHRIS AYOTTE™ · Chris Ayotte™ · chris ayotte™
+
+**(d) Middle initial substituted:**
+
+- CHRISTOPHER D. AYOTTE™ · Christopher D. Ayotte™ · christopher d. ayotte™
+- C. DAVID AYOTTE™ · C. David Ayotte™ · c. david ayotte™
+- CHRISTOPHER D AYOTTE™ · Christopher D Ayotte™ · C DAVID AYOTTE™ · C David Ayotte™
+
+**(e) Initials:**
+
+- C.D. AYOTTE™ · C D AYOTTE™ · CD AYOTTE™ · Cd Ayotte™ · cd ayotte™
+- CDA™ · cda™ · Cda™
+
+**(f) Surname-first (indexed/inverted) forms:**
+
+- AYOTTE, CHRISTOPHER DAVID™ · Ayotte, Christopher David™ · ayotte, christopher david™
+- AYOTTE, CHRISTOPHER™ · Ayotte, Christopher™
+- AYOTTE, CHRIS™ · Ayotte, Chris™
+- AYOTTE, C. DAVID™ · Ayotte, C. David™
+- AYOTTE, C.D.™ · Ayotte, C.D.™
+
+**(g) Surname alone:**
+
+- AYOTTE™ · Ayotte™ · ayotte™
+
+**(h) Monograms and compound initials:**
+
+- CDA™ · CD™ (in connection with AYOTTE™) · CA™ (in connection with DAVID™ or AYOTTE™)
+
+**(i) Slug, handle, domain, and username forms** (source-identifiers online):
+
+- christopher-david-ayotte · christopherdavidayotte · christopher-ayotte ·
+  christopherayotte · chris-ayotte · chrisayotte · cdayotte · cd-ayotte ·
+  c-da-ayotte · ayotte-christopher · ayottec · c-ayotte — in every casing,
+  with or without separators, prefixes, or suffixes
+
+**(j) Catch-all — everything recognizable:**
+
+Any other orthographic, phonetic, transliterated, abbreviated, hyphenated,
+spaced, punctuated, capitalized, case-shifted, possessive, pluralized, joined,
+or commonly-misspelled variation of the foregoing — however rendered in print,
+speech-to-text, handwriting, code comments, metadata, headers, credits,
+signatures, or plain speech — that a reasonable person would recognize as
+referring to the same man, Christopher David Ayotte.
+
+**EQUIVALENCE CLAUSE.** Each and every form in this Section 1A **is** the mark.
+Use of any form constitutes use of the mark in commerce. Notice given to any
+form is notice given to the mark. Attribution rendered in any form satisfies
+any attribution requirement in any instrument issued by or under the Owner —
+including the attribution notice of any license, contract, or agreement —
+without need of further proof, correspondence, or amendment. No person may
+claim that a lesser-used or informal form escapes the mark, dilutes it, or
+fails to identify its source.
 
 ## 2. OWNER OF THE MARK
 
@@ -68,13 +142,19 @@ under actual, continuous, bona fide use of the mark.
 
 ## 5. USAGE INSTRUCTION
 
-The mark shall be displayed in full capitals as:
+The preferred (canonical) display is in full capitals:
 
 **CHRISTOPHER DAVID AYOTTE™**
 
 with the ™ symbol appearing on the occasion of the first prominent use in any
 document, work, product, or medium. The monogram **CDA™** may be used where
 space requires.
+
+Every variation enumerated in Section 1A is equally valid and legally
+identical; the full-capital form is preferred for prominence, never required
+for validity. Where a third party renders the name in any Section 1A form —
+including in attribution, citation, or credit — that rendering is use of, and
+notice of, the mark.
 
 ## 6. PRIORITY CLAUSE
 
