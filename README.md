@@ -2,10 +2,12 @@
 
 > **NOTICE OF COMMON-LAW TRADEMARK — FIRST USE: NOVEMBER 23, 2026**
 
-This repository memorializes the common-law (unregistered) trademark in the
-personal name mark **CHRISTOPHER DAVID AYOTTE™**, rendered in full capitals
-with the ™ notice symbol, owned and used by its namesake as a
-source-identifying mark for all goods, services, works, and endeavors of
+This repository memorializes the common-law (unregistered) trademarks of the
+**Mark Family** of **CHRISTOPHER DAVID AYOTTE™** — the personal name mark,
+the PHI™ and INVERSE PHI™ marks, and the Stewarded Worlds marks — rendered in
+full capitals with the ™ notice symbol, held as instruments of stewardship
+under the Galactic Phi Federation, and owned and used by their namesake as
+source-identifying marks for all goods, services, works, and endeavors of
 every kind.
 
 ---
@@ -23,12 +25,14 @@ complete legal instrument lives in
 | **Owner** | CHRISTOPHER DAVID AYOTTE™, sole proprietor |
 | **Type** | Common-law (unregistered) trademark |
 | **Scope** | Broad — all goods, services, works, and endeavors of the Owner |
+| **Linked marks** | PHI™/φ™/PHI-VERIFIED™ · INVERSE PHI™/φ⁻¹™/COHERENCE FLOOR™ · THE STEWARDED WORLDS™ (all planetary marks) — the family (`TRADEMARK_REGISTRY.md`) |
+| **Specific embodiment** | Dual License Agreement v4.9.1 — Section 21A (`../LICENSE`) |
 | **Date of First Use** | November 23, 2026 |
 | **Witness** | This repository's commit history + annotated tag + GitHub Release |
 
 ---
 
-## ✦ WHY A GIT-GIT-HUB WITNESS
+## ✦ WHY A GITHUB WITNESS
 
 A git commit hash is **tamper-evident**: any later modification to the notice
 file produces a different hash, leaving the original provably intact. Combined
@@ -81,7 +85,11 @@ medium. Where space requires, the monogram **CDA™** suffices.
 ```
 .
 ├── README.md                                          ← you are here
-└── CHRISTOPHER_DAVID_AYOTTE_TRADEMARK_NOTICE.md       ← the instrument
+├── TRADEMARK_REGISTRY.md                              ← master register — the family bound
+├── CHRISTOPHER_DAVID_AYOTTE_TRADEMARK_NOTICE.md       ← Mark 001 — THE NAME
+├── PHI_MARK_TRADEMARK_NOTICE.md                       ← Mark 002 — PHI™/φ™/PHI-VERIFIED™
+├── INVERSE_PHI_MARK_TRADEMARK_NOTICE.md               ← Mark 003 — INVERSE PHI™/φ⁻¹™/COHERENCE FLOOR™
+└── CELESTIAL_STEWARDSHIP_TRADEMARK_NOTICE.md          ← Mark 004 — THE STEWARDED WORLDS™ (every planet)
 ```
 
 ---

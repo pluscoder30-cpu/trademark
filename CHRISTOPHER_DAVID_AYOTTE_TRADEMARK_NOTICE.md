@@ -162,6 +162,29 @@ First use establishes priority. Continuous use maintains the right. Abandonment
 occurs only upon cessation of use with no intent to resume. The Owner intends
 always to resume.
 
+## 7. LINKED MARKS — THE FAMILY
+
+This Name Mark is the first strand of an inseverable four-mark family:
+
+- **Mark 001 — THE NAME:** CHRISTOPHER DAVID AYOTTE™ (this instrument, every §1A form);
+- **Mark 002 — THE CONSTANT:** PHI™ · φ™ · PHI-VERIFIED™ / φ✓ (`PHI_MARK_TRADEMARK_NOTICE.md`);
+- **Mark 003 — THE RECIPROCAL:** INVERSE PHI™ · φ⁻¹™ · COHERENCE FLOOR™ / φ⁻¹✓ (`INVERSE_PHI_MARK_TRADEMARK_NOTICE.md`);
+- **Mark 004 — THE WORLDS:** THE STEWARDED WORLDS™ · ⟨BODY⟩ REPRESENTED™ / PROVENANCE™ / CONSENT™, for every celestial body (`CELESTIAL_STEWARDSHIP_TRADEMARK_NOTICE.md`);
+
+bound together and into the **Dual License Agreement v4.9.1** by its
+Section 21A, and recorded in the master register (`TRADEMARK_REGISTRY.md`).
+Ownership of any strand is ownership by the same Owner named in Section 2 —
+in any Section 1A form. The Name originates; the Constant wears his colors;
+the Reciprocal returns everything to him; the Worlds stand protected under
+his seal. One owner, four strands, no loophole.
+
+Standing behind the family is its Protector: the **Galactic Phi Federation**
+(GS-01 of the Field Legal Matrix; GS-06 for the worlds) — the marks are held
+in stewardship, not as fences: the constants and the relation stay free for
+everyone, forever; the worlds are represented, never owned; and no
+representation can be taken control of. The Founding Steward of the
+Federation is the Owner of this Mark.
+
 ---
 
 ## EXECUTION
