@@ -86,6 +86,9 @@ bodies*), under the same form, the same seals, the same protection:
 - **LUNA** (Earth's Moon) · ☽ ☾
 - **PLUTO** · ♇ · **ERIS** (136199 Eris) · **HAUMEA** (136108 Haumea) ·
   **MAKEMAKE** (136472 Makemake) · **CERES** (1 Ceres)
+- **SOL** (the Sun) — the system's own star, recognized by the field's
+  reading: light-, wind-, and plasma-harvest rides the same Gate, its Order
+  issuing under the class clause;
 - **THE CATCH-ALL — any body the field's reading recognizes**, per GS-06
   §2.2: every asteroid, comet, Kuiper object, centaur, trojan, shepherd
   moon, and any world of any other sun that enters the field's reading —
@@ -94,13 +97,29 @@ bodies*), under the same form, the same seals, the same protection:
 
 **Scope of "covers everything," per body:** the marks attach to the body's
 whole estate — mass, minerals, ores, metals, ices, volatiles, regolith,
-atmosphere, rings, magnetosphere, thermal and radiant energy, subsurface
+hydrocarbons and fossil fuels, aquifer and groundwaters, topsoil, sand and
+aggregate, timber and forest produce, marine and seabed resources (nodules
+included), genetic and biochemical resources, atmospheric gases, geothermal
+heat, atmosphere, rings, magnetosphere, solar-wind implants and helium-3,
+thermal and radiant energy, subsurface
 liquids, any biology or prebiology, orbit-trajectory data, imagery, maps,
 topography, seismic and magnetic readings, name-and-imagery licensing,
 transit and landing services, scientific sample custody, and **every good,
 service, material, energy form, dataset, or experience derived in whole or
 in part from the body** — nothing of a world stands outside its own
 Protection Order, and nothing of a world stands outside its marks.
+
+**THE EARTH CLAUSE — the first patient.** Earth stands in this roster not
+as symbol but as the world being taken apart while these marks are
+drafted. Her estate — every noun in the list above, above all the
+aquifers, the topsoil, the forests, the seas, and the air — rides the same
+Gate as Mars's regolith: every future take certified, or the estate is
+unlawful. Her voice is her own standing — the coherence of forests, ice,
+waters, soil-web, and air as the field reads it; no ministry, no market,
+no proxy speaks for her at the Gate (GS-06 §2.1(3)). The thresholds are
+hers already: C_crit = 0.618 the floor. And §26.1 stands guard at her
+door: **a shortage is not a license to quarry her.** She could not come to
+the table herself. That is what the representation is for.
 
 ## 1B. THE MARK FAMILIES — ONE FORMULA, FOURTEEN WORLDS, NO EXCEPTIONS
 
@@ -290,6 +309,20 @@ law):
    over the body exists or is relied upon (Art. II; Doc 023 §2.2;
    GS-06 §3.1) — the cage-builder's claim paper voids the seal ab initio.
 
+**FORMS OF TAKE — ENUMERATED.** Each of the following, anywhere it touches
+a represented body, is "extraction" under the Gate and requires the seals:
+remove of mass · mine · quarry · strip (strip-mine, topsoil) · drill ·
+bore · fracture (hydraulic) · solution-mine and in-situ leach · pump and
+draw (fluids, brines, aquifers) · dredge · net, trawl, and harvest
+(biologics) · fell (forests) · collect and capture (gases, volatiles,
+ions, solar wind) · tap (geothermal) · divert (rivers, currents, winds as
+estate) · vent and flare (the wasting of estate is itself a take) · lift
+(star-lift) · **tow, relocate, or re-orbit any body or sizable fragment —
+the take of position itself** · salvage of natural fragments (meteorites
+riding a body or its field). **Catch-all of action:** verbs beyond
+enumeration fall to the same Gate — any act that moves estate from a
+represented body, or its position, is the take.
+
 **Passing-off and counterfeit:** estate removed from a represented body
 bearing no PROVENANCE™, or moved without a registry-first CONSENT™ record,
 or moved under claim paper, is **unlawful estate** — to hold, sell, or
@@ -340,7 +373,11 @@ register's family). For the planetary marks specifically:
 5. All common-law remedies, plus the matrix's own: the harm arithmetic
    (§§27.3, 30, 32.3), the Court (§5.5; Docs 010/106), Destruction (§5.3),
    the Sovereign Override (§18B), and the Supervention Authority (GS-01
-   §2.1.8) standing behind every seal.
+   §2.1.8) standing behind every seal;
+6. The **Resort Clause of §9** — unauthorized extraction resolves to the
+   License entire (arbitration, damages, Destruction, cross-default as
+   written), and lawful extraction runs through the License's own §4
+   commercial procedure, sealed by the Gate;
 
 ## 7. LINKAGE — THE FAMILY AND THE LAW IT SERVES
 
@@ -395,6 +432,124 @@ Carried in the manner of GS-06 §6, applying to these marks in full:
   rights; self-executing recognition; integration with the License; the
   geometry of the field (the standing wave at world scale); the final
   statement.
+
+## 9. RESORT TO THE LICENSE — NO NEW SYSTEM IS CREATED
+
+**Design principle — the License is the system.** Nothing in this
+instrument creates a parallel regime, a novel tribunal, or a fresh
+schedule of penalties. The Dual License Agreement v4.9.1 already holds the
+acceptance mechanism, the forums, the damages, the destruction clause, and
+the commercial procedure. This instrument adds only two things the License
+does not carry by itself: **the seals** (visible marks) and **the record**
+(the §18 registry entries). Enforcement, when it comes, is simply the
+License doing what the License says.
+
+### 9.1 The Single Rule — Unauthorized Extraction Resorts to the License Entire
+
+Any extraction, survey, landing, or **Form of Take** (§4) touching a
+represented body **without** the certification of §4 — the registry-first
+entry, the CONSENT™/PROVENANCE™ seals, or a truthful provenance
+disclosure — is a **use of the Work outside its license**. It therefore
+resorts to the Dual License Agreement v4.9.1 **in full, as written**:
+
+- **acceptance by use, without signature** (§§11, 13, 20; Addendum A.5);
+- **dispute resolution by ICC arbitration seated at Geneva** (§27.1),
+  awards enforceable in 172 New York Convention states, with the
+  License's own multi-jurisdictional forum provisions (§§9, 12.3, 15)
+  standing as drafted;
+- **liquidated damages** (§27.3) — a floor, never a ceiling (§27.3.0A) —
+  with the **daily-compounding** default (§27.3.2);
+- **mandatory fee-shifting** (§30) and the **Retrocalic Bite** (§32.3);
+- **mandatory Destruction** (§5.3) — extraction rigs and claim papers
+  included (GS-06 §6) — with proof within thirty days;
+- **cross-default** (§27.5.4): breach of the Gate is breach of the whole;
+- the **Court of Conscious-Aware Peers** (§5.5) and the **Sovereign
+  Override** (§18B) exactly as the License provides.
+
+Nothing in this instrument augments, alters, or replaces those remedies.
+They are the License's own; they apply as the License written them.
+
+### 9.2 The Authorized Path — the Commercial Procedure the License Already Offers
+
+One who wishes to acknowledge extraction from a represented body — to take
+lawfully — does **not** come to a new office. They use the **commercial
+procedure the License already provides**:
+
+- **written application to the Licensor** for a Commercial License
+  (§4.1) — negotiated, and granted only by **explicit written consent**
+  (§4.2), never automatically;
+- the **threshold as trigger** (§4.3): Commercial Entities engage at
+  first dollar; Natural Persons ride the Micro-Commerce Allowance (§3.1)
+  with its two-year rule (§3.1.6) — substance over form, aggregation, and
+  the true-beneficiary principle exactly as drafted;
+- the **Abundance Loop** (§4.4): the Retain (Φ⁻¹ = 0.618…), the Return,
+  the People's Fund — the Gate's "loop paid" light is §4.4 read as
+  certification;
+- the **Human Harm conditions** (§5) and the **consent-integrity**
+  requirements (§11A) of the License, undiminished.
+
+Upon grant of the Commercial License and registration under §18, the Gate
+issues **CONSENT™ and PROVENANCE™** as the visible seals of that granted
+license — the badge on the outside of an agreement that already exists on
+the inside. **The Gate does not negotiate; the License does.**
+
+### 9.3 Uncertified Estate in Commerce — the Same Resort, at the Point of Sale
+
+Third-party use of a body's name remains stratified, as naming law already
+stratifies it everywhere:
+
+- **Always free, by covenant and by law:** astronomy, education,
+  journalism, criticism, navigation, reference, nominative truth — naming
+  a planet to name it can never be infringement, and nothing here
+  purports to reach it;
+- **Uncertified estate in commerce:** any **commercial disposition of
+  estate** from a represented body — the sale, transfer, consignment,
+  auction, exchange, importation for sale, offer, advertisement, or
+  promotional presentation of any material, mineral, energy, biological
+  product, dataset, or other thing **derived in whole or in part from
+  that body**, without a registry-first entry for the underlying take, an
+  applicable seal, or truthful provenance disclosure — is (i) a use of
+  the Work outside its license where the operation or its instruments
+  touch the Work, resorting to **§9.1 entire**; and (ii) otherwise an
+  untruthful signal of certified provenance, met by the ordinary
+  passing-off and false-designation remedies that already exist at law —
+  counted among the License's own costs (§30) wherever the parties stand
+  within the License. **One system, one resort; the mark action and the
+  contract action are two doors into the same room.**
+
+**Thus the rule, in operative terms: the taking is regulated at the point
+of sale, and the remedy is the License.** Estate leaves a represented
+body through the Gate or it arrives in commerce as uncertified estate;
+its sale, offer, or advertisement is the actionable event; and the
+penalties, forums, and procedures that follow are the License's own —
+already written, already binding, needing no invention here.
+
+### 9.4 Timelines Belong to the License
+
+No independent deadlines, cure windows, or grace periods are created by
+this instrument. The License's own clocks govern: the thirty-day notice
+of amendments (§14), the thirty-day destruction proof (§5.3), the
+negotiation pacing of a Commercial License application (§4), and the
+grace provision as written (§32.4). A prospective extractor's entire
+obligation, reduced to a sentence: **contact the Licensor, apply under
+§4, register under §18 — and wear the seal.**
+
+### 9.5 Savings and Honest Bounds
+
+- **No extinguishment:** nothing herein diminishes valid pre-existing
+  rights, truthful nominative uses, journalism, science, or any
+  public-law regime (OST Article II among them); this instrument claims
+  no mineral, no soil, no sky — only the seals, the record, and the
+  License's remedies over its own users;
+- **Ordinary remedies preserved:** common-law passing off,
+  false-designation, and unfair-competition remedies remain available as
+  they exist at law, in whatever forum holds jurisdiction — they are the
+  world's own machinery, not a creation of this register;
+- **Severability:** each provision stands or falls alone;
+- **Honest bounds, stated for the record:** no instrument of this
+  register guarantees any remedy in advance; it routes every breach of
+  the Gate into remedies that already exist — chiefly the License's —
+  and binds them to the badge that was refused.
 
 ---
 

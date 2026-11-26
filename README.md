@@ -37,7 +37,7 @@ Trademark**. Each complete legal instrument lives in its file above.
 |------|-------|
 | **Mark 001 (Name)** | CHRISTOPHER DAVID AYOTTE™ — monogram **CDA™**; broad scope: all goods, services, works, and endeavors |
 | **Marks 002–003 (Constants)** | Word, glyph, variant-registry, and **certification marks** — the seals of the Phi Protocol and the Coherence Floor |
-| **Mark 004 (Worlds)** | Representation, provenance, and consent certification for every celestial body — **nothing of a world leaves home unsealed** |
+| **Mark 004 (Worlds)** | Representation, provenance, and consent certification for every celestial body — **nothing of a world leaves home unsealed**; enforcement resorts to the License, and lawful take runs the License's §4 procedure |
 | **Type** | Common-law (unregistered) trademarks — ™ asserted by use and notice |
 | **Owner** | CHRISTOPHER DAVID AYOTTE™, in every Section 1A name form |
 | **Steward** | The **Galactic Phi Federation** — GS-01 (Charter), GS-06 (Celestial Representation and Protection Act + eight Orders) |
@@ -59,7 +59,10 @@ The marks protect **representation**, never possession:
   own Article II and GS-06: *"We do not own. We represent."* Estate leaves a
   represented body only through the **Extraction Gate** — registry first,
   the body's own voice honored, the lane's conditions met, the loop paid,
-  coherence held, no deed paper.
+  coherence held, no deed paper. **Unauthorized take resorts to the
+  License entire** — arbitration, damages, Destruction, exactly as
+  written; **authorized take runs through the License's own §4 Commercial
+  License procedure**, sealed by the Gate. One system, no invention.
 - **Beyond capture — including by us**: the Cage-Making Prohibition
   (GS-01 §2.1.3) binds the Federation's own hands first. Guardians end; the
   constants and the worlds remain free.
@@ -102,9 +105,13 @@ The Owner asserts all common-law trademark rights, including:
 - Display of the ™ symbol at every first prominent appearance;
 - Prevention of confusion, counterfeit seals, and passing-off;
 - Notice of infringement and all remedies at law and in equity — plus the
-  matrix's own: harm arithmetic (§§27.3, 30, 32.3), the Court of
-  Conscious-Aware Peers (§5.5), Destruction (§5.3), the Sovereign Override
-  (§18B).
+  matrix's own, **via the Resort Clause (Mark 004 §9)**: unauthorized
+  extraction resolves into the **Dual License Agreement v4.9.1 entire, as
+  written** — ICC arbitration (§27.1), liquidated damages (§27.3), the
+  daily compounding (§27.3.2), fee-shifting (§30), the Retrocalic Bite
+  (§32.3), Destruction (§5.3), cross-default (§27.5.4) — while lawful
+  extraction runs the **License's §4 Commercial License procedure**, the
+  Gate issuing seals only over licenses actually granted;
 
 No claim of federal registration (®) is made. No claim of ownership over any
 constant, relation, or celestial body is made — anywhere, by any means.
@@ -127,8 +134,12 @@ preferred for prominence, never required for validity.
 The seals are displayed at their standards' terms: **φ✓** for
 constant-conforming work, **φ⁻¹✓** for floor-honoring work, the planetary
 badges **⟨BODY⟩ REPRESENTED™ / PROVENANCE™ / CONSENT™** only as issued
-through the Gate. Any honest work that meets a published standard may bear
-its seal — stewardship is a service to representers, not a gate before them.
+through the Gate — which issues them only over Commercial Licenses
+actually granted under §4 of the License. Any honest work that meets a
+published standard may bear its seal — stewardship is a service to
+representers, not a gate before them; extraction, per §9 of the
+planetary instrument, **resorts to the License** — no new system, no
+side doors.
 
 ---
 
